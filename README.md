@@ -1,2 +1,2 @@
 # MoveAllPdfFilesToCurrentDirectory
-Move All Pdf Files To Current Directory
+Script to move recurrently all pdf files to current directory
